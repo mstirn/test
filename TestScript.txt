@@ -1,0 +1,4 @@
+@echo Off
+echo "hello world!"
+
+echo "Sweet!"
