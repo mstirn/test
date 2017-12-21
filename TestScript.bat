@@ -1,5 +1,6 @@
-@echo On
+@echo Off
 
-SET foo=bar
+SET foo=Hello 
+SET bar=World
 
-echo %foo%
+echo %foo%%bar%
